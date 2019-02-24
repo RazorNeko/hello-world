@@ -1,3 +1,3 @@
 # hello-world
 first repository
-I'm a mechanical ingineer who is interested in programming.
+I'm a mechanical engineer who is interested in programming.
